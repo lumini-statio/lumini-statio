@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [a Django project](https://gestor-de-gastos.pages.dev/)
 
-- 🌱 I’m currently learning **Django, pyautogui, flet**
+- 🌱 I’m currently learning **Reflex, flet**
 
-- 💬 Ask me about **Django, Flask, FastAPI, Automation**
+- 💬 Ask me about **Django, FastAPI, Automation**
 
 - 📫 How to reach me **lunaemilio2003@gmail.com**
 
