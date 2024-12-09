@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reflex, flet**
 
-- 💬 Ask me about **Django, FastAPI, Automation**
+- 💬 Ask me about **Django, SQL, Automation**
 
 - 📫 How to reach me **lunaemilio2003@gmail.com**
 
