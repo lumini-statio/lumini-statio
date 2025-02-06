@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Emilio Luna</h1>
 <h3 align="center">A passionate frontend developer from Argentina, Buenos Aires</h3>
 
-- 🔭 I’m currently working on [a tamagochi game for a diploma exam with a team](https://github.com/LujanSab/NivelIntermedio-Tamagotchi)
+- 🔭 I’m currently working on [a tamagochi game for a diploma exam with a team](https://github.com/LujanSab/NivelIntermedio-Tamagotchi) and [an app for store and generate secure passwords, with security and authorisation included](https://github.com/lumini-statio/secure_password_generator_desktop)
 
 - 🌱 I’m currently learning **Flet, for desktop and mobile apps**
 
 - 👯 I’m looking to collaborate on **projects builded with Python, especially desktop, mobile and web apps**
 
-- 💬 Ask me about **Python and Python tools, SQL, and testing**
+- 💬 Ask me about **Python tools and testing**
 
 - 📫 How to reach me **lunaemilio2003@gmail.com**
 
