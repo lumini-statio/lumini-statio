@@ -1,5 +1,18 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Emilio Luna</h1><br><h3 align="center">A passionate frontend developer from Argentina, Buenos Aires</h3><br>I'm a Backend dev on PSA, grow my skills everyday building and maintaining apps.<br>  I'd like to participate of big projects that helps many people. I strive every day to one day be at the level of the best.<br><br>- 🔭 I’m currently working on [a tamagochi game for a diploma exam with a team](https://github.com/LujanSab/NivelIntermedio-Tamagotchi) and<br>[an app for store and generate secure passwords, with security and authorisation included](https://github.com/lumini-statio/secure_password_generator_desktop)<br><br>- 🌱 I’m currently learning **Flet, for desktop and mobile apps**
+<h1 align='center'>Hi 👋, I'm Emilio Luna</h1>
+
+<h3 align='center'>A passionate frontend developer from Argentina, Buenos Aires</h3>
+<br>
+I'm a Backend dev on PSA, grow my skills everyday building and maintaining apps.
+ 
+I'd like to participate of big projects that helps many people. 
+I strive every day to one day be at the level of the best.
+
+🔭 I’m currently working on:
+- [a tamagochi game for a diploma exam with a team](https://github.com/LujanSab/NivelIntermedio-Tamagotchi)
+- [an app for store and generate secure passwords, with security and authorisation included](https://github.com/lumini-statio/secure_password_generator_desktop)
+
+🌱 I’m currently learning **Flet, for desktop and mobile apps**
 
 
 ## 🌐 Socials:
