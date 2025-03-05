@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align='center'>Hi 👋, I'm Emilio Luna</h1>
 
-<h3 align='center'>A passionate frontend developer from Argentina, Buenos Aires</h3>
+<h3 align='center'>A passionate Backend developer from Argentina, Buenos Aires</h3>
 <br>
 I'm a Backend dev on PSA, grow my skills everyday building and maintaining apps.
  
