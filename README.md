@@ -9,7 +9,7 @@ I'd like to participate of big projects that helps many people.
 I strive every day to one day be at the level of the best.
 
 🔭 I’m currently working on:
-- [A chatbot builded with tensorflow](https://github.com/lumini-statio/CoreMate)
+- [A stock manager app for companies](https://github.com/lumini-statio/CoreMate)
 - [An automation app](https://github.com/lumini-statio/WIZERN)
 
 🌱 I’m currently learning **Flet, for desktop, web and mobile apps**
