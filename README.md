@@ -9,8 +9,7 @@ I'd like to participate of big projects that helps many people.
 I strive every day to one day be at the level of the best.
 
 🔭 I’m currently working on:
-- [A stock manager app for companies](https://github.com/lumini-statio/Stackerly)
-- [An automation app](https://github.com/lumini-statio/WIZERN)
+- [A stock manager API for companies builded on FastAPI and hexagonal architecture](https://github.com/lumini-statio/Stackerly)
 
 🌱 I’m currently learning **Flet, for desktop, web and mobile apps**
 
