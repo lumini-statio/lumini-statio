@@ -12,9 +12,6 @@ I strive every day to one day be at the level of the best.
 - [Script to download youtube music and videos](https://github.com/lumini-statio/ytloader)
 - [Desktop App to split shared expenses equally](https://github.com/lumini-statio/PySplitter)
 
-🌱 I’m currently learning **Flet, for desktop, web and mobile apps**
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emilio-luna-backend) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lunaemilio2003@gmail.com) 
 
