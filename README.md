@@ -9,7 +9,7 @@ I'd like to participate of big projects that helps many people.
 I strive every day to one day be at the level of the best.
 
 🔭 I’m currently working on:
-- [A stock manager API for companies builded on FastAPI and hexagonal architecture](https://github.com/lumini-statio/Stackerly)
+- [Script to download youtube music and videos](https://github.com/lumini-statio/ytloader)
 
 🌱 I’m currently learning **Flet, for desktop, web and mobile apps**
 
