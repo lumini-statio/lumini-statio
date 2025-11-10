@@ -13,7 +13,8 @@ I strive every day to one day be at the level of the best.
 - [Desktop App to split shared expenses equally](https://github.com/lumini-statio/PySplitter)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emilio-luna-backend) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lunaemilio2003@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emilio-luna-backend)
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lunaemilio2003@gmail.com) 
 
 # 💻 Tech Stack:
 ## Languages, libraries and frameworks:
@@ -24,14 +25,16 @@ I strive every day to one day be at the level of the best.
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![.NET](https://img.shields.io/badge/.net-512BD4?style=for-the-badge)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-363636?style=for-the-badge&logo=pytest)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![OpenCV](https://img.shields.io/badge/opencv-white?style=for-the-badge&logo=opencv&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Polars](https://img.shields.io/badge/polars-000?style=for-the-badge&logo=polars)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -42,8 +45,8 @@ I strive every day to one day be at the level of the best.
 
 ## Tools:
 ![Linux](https://img.shields.io/badge/linux-363636?style=for-the-badge&logo=linux&logoColor=white)
-![JSON](https://img.shields.io/badge/json-363636?style=for-the-badge&logo=json&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-363636?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Bash](https://img.shields.io/badge/bash-363636?style=for-the-badge&logo=gnubash)
 ![Warp Terminal](https://img.shields.io/badge/warp-363636?style=for-the-badge&logo=warp)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-363636?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
@@ -53,15 +56,13 @@ I strive every day to one day be at the level of the best.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-363636?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23F05033.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![JSON](https://img.shields.io/badge/json-363636?style=for-the-badge&logo=json&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lumini-statio&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lumini-statio&theme=synthwave&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lumini-statio&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lumini-statio&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
