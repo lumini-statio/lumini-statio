@@ -10,6 +10,7 @@ I strive every day to one day be at the level of the best.
 
 🔭 I’m currently working on:
 - [Script to download youtube music and videos](https://github.com/lumini-statio/ytloader)
+- [Desktop App to split shared expenses equally](https://github.com/lumini-statio/PySplitter)
 
 🌱 I’m currently learning **Flet, for desktop, web and mobile apps**
 
