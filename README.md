@@ -8,7 +8,7 @@ I participate of big projects that helps people.
 Design & build things I imagine.
 
 > [!NOTE]
-> I develop on my stak
+> I develop on my stack
 > - Java
 > - Spring Framework - Spring Boot - Spring Security
 > - C#
