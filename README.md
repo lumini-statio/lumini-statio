@@ -1,11 +1,22 @@
 # 💫 About Me:
-## Hi 👋, I'm Emilio Luna</h1>
+## Hi, I'm Emilio Luna</h1>
 
 ### A passionate Backend developer from Argentina, Buenos Aires</h3>
-### I'm a Backend dev on PSA, grow my skills everyday building and maintaining apps.
- 
+### I'm a tech leader on [PSA](https://www.argentina.gob.ar/psa), designing software & resolving real human problems.
+
 I participate of big projects that helps people. 
 Design & build things I imagine.
+
+> [!NOTE]
+> I develop on my stak
+> - Java
+> - Spring Framework - Spring Boot - Spring Security
+> - C#
+> - ASP .NET
+> - Python
+> - Django & Django REST Framework (DRF)
+> - SQL
+> - 
 
 I’m currently working on:
 - [videocall app for older PCs](https://github.com/lumini-statio/rtc-backend)
