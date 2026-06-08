@@ -23,7 +23,7 @@
 <hr>
 
 I’m currently working on:
-- [videocall app for older PCs](https://github.com/lumini-statio/rtc-backend) - [site](https://luminicall.pages.dev)
+- [videocall app for older PCs](https://github.com/lumini-statio/rtc-backend)
 <hr>
 
 ## 🌐 Socials:
