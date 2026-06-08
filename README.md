@@ -3,9 +3,11 @@
 
 ### A passionate Backend developer from Argentina, Buenos Aires</h3>
 ### I'm a tech leader on [PSA](https://www.argentina.gob.ar/psa), designing software & resolving real human problems.
+<hr>
 
-I participate of big projects that helps people. 
-Design & build things I imagine.
+### I participate on projects that helps people. 
+### Design & build things I imagine.
+<hr>
 
 > [!NOTE]
 > I develop on my stack
@@ -18,9 +20,11 @@ Design & build things I imagine.
 > - SQL
 > - Docker
 > - Kubernetes - K8s
+<hr>
 
 I’m currently working on:
 - [videocall app for older PCs](https://github.com/lumini-statio/rtc-backend)
+<hr>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emilio-luna-backend)
