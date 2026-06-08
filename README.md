@@ -16,7 +16,8 @@ Design & build things I imagine.
 > - Python
 > - Django & Django REST Framework (DRF)
 > - SQL
-> - 
+> - Docker
+> - Kubernetes - K8s
 
 I’m currently working on:
 - [videocall app for older PCs](https://github.com/lumini-statio/rtc-backend)
