@@ -14,8 +14,8 @@
 <hr>
 
 I’m currently working on:
-- [minecraft java launcher](https://github.com/lumini-statio/rtc-backend)
-- [microservices system on java](https://github.com/lumini-statio/contability-system-spring)
+- [minecraft java launcher](https://github.com/lumini-statio/hornero-launcher)
+- [microservices system on java]
 <hr>
 
 > [!NOTE]
