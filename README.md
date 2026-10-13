@@ -14,8 +14,8 @@
 <hr>
 
 I’m currently working on:
-- [videocall app for older PCs](https://github.com/lumini-statio/rtc-backend)
-- [contability app for enterprise use on java](https://github.com/lumini-statio/contability-system-spring)
+- [minecraft java launcher](https://github.com/lumini-statio/rtc-backend)
+- [microservices system on java](https://github.com/lumini-statio/contability-system-spring)
 <hr>
 
 > [!NOTE]
