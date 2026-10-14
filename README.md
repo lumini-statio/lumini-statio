@@ -21,10 +21,11 @@ I’m currently working on:
 > [!NOTE]
 > Principal stack
 > - Java
-> - Spring Framework - Spring Boot - Spring Security
+> - Spring Boot
 > - SQL
 > - Docker
 > - Kubernetes - K8s
+> - RabbitMQ
 > 
 > Complementaries
 > - C#
