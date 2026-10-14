@@ -19,13 +19,14 @@ I’m currently working on:
 <hr>
 
 > [!NOTE]
-> Principal stack
+> Principal Stack
 > - Java
 > - Spring Boot
-> - SQL
+> - SQL (PostgreSQL, MySQL, OracleDB, MariaDB)
 > - Docker
 > - Kubernetes - K8s
 > - RabbitMQ
+> - Redis
 > 
 > Complementaries
 > - C#
