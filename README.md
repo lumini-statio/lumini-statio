@@ -2,7 +2,7 @@
 ## Hi, I'm Emilio Luna</h1>
 
 ### A passionate Backend developer from Argentina, Buenos Aires</h3>
-### I'm a tech leader on [PSA](https://www.argentina.gob.ar/psa), designing software & resolving real human problems.
+### I'm a software developer on [PSA](https://www.argentina.gob.ar/psa), designing solutions & resolving real human problems.
 <hr>
 
 ## 🌐 Socials:
