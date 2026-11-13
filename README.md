@@ -14,8 +14,9 @@
 <hr>
 
 I’m currently working on:
-- [minecraft java launcher](https://github.com/lumini-statio/hornero-launcher)
 - [microservices system on java](https://github.com/lumini-statio/ecommerce-microservices-project)
+- [minecraft java launcher](https://github.com/lumini-statio/hornero-launcher)
+- [minecraft launcher cli](https://github.com/lumini-statio/hornero-launcher-cli)
 <hr>
 
 > [!NOTE]
