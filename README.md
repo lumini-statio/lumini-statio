@@ -15,6 +15,7 @@
 
 I’m currently working on:
 - [microservices system on java](https://github.com/lumini-statio/ecommerce-microservices-project)
+- [video call / chat app builded on Rust + slint](https://github.com/lumini-statio/JawYo)
 - [minecraft java launcher](https://github.com/lumini-statio/hornero-launcher)
 - [minecraft launcher cli](https://github.com/lumini-statio/hornero-launcher-cli)
 <hr>
